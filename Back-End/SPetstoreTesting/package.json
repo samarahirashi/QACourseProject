@@ -1,0 +1,18 @@
+{
+  "name": "swaggerpetstoretesting",
+  "version": "1.0.0",
+  "description": "Automation for the Petstore Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samara Hirashi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@types/mocha": "^9.1.1"
+  }
+}
